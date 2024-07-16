@@ -1,6 +1,8 @@
-nginx
-#支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-xhofe/alist:latest
-#支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
+wazuh/wazuh-indexer:4.3.0
+wazuh/wazuh-manager:4.3.0
+wazuh/wazuh-dashboard:4.3.0
+wazuh/wazuh-manager:4.8.1-rc3
+wazuh/wazuh-indexer:4.8.1-rc3
+wazuh/wazuh-dashboard:4.8.1-rc3
+wazuh/wazuh-certs-generator:0.0.2
+wazuh/wazuh-certs-generator:0.0.1
