@@ -1,8 +1,1 @@
-wazuh/wazuh-indexer:4.3.0
-wazuh/wazuh-manager:4.3.0
-wazuh/wazuh-dashboard:4.3.0
-wazuh/wazuh-manager:4.8.1-rc3
-wazuh/wazuh-indexer:4.8.1-rc3
-wazuh/wazuh-dashboard:4.8.1-rc3
-wazuh/wazuh-certs-generator:0.0.2
-wazuh/wazuh-certs-generator:0.0.1
+nginx:1.22.0
