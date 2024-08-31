@@ -1,1 +1,1 @@
-alpine:latest
+python:3.7.17
